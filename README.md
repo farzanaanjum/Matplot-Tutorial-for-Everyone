@@ -1,7 +1,6 @@
 # Matplot-Tutorial-for-Everyone
 
-![m](https://user-images.githubusercontent.com/30755050/162631553-191dc443-a721-4671-a525-6a8e3abba3ec.png)
-
+![image](https://user-images.githubusercontent.com/30755050/162631669-f9c8d90b-ce9a-4c1d-8a31-e3ce9c97cf2f.png)
 
 
 Matplotlib is a cross-platform, data visualization and graphical plotting library for Python and its numerical extension NumPy. Developed by John D. Hunter. As such, it offers a viable open source alternative to MATLAB. Developers can also use matplotlib’s APIs (Application Programming Interfaces) to embed plots in GUI applications. And making 2D plots from data in arrays.
