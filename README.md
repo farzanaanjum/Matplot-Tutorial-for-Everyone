@@ -22,3 +22,8 @@ Matplotlib is a cross-platform, data visualization and graphical plotting librar
   5. Line Chart and Subplots
   6. Scatter Plot
   
+## Reference 
+
+1. https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.15-Quiver-and-Stream-Plots/
+2. https://www.listendata.com/2019/06/matplotlib-tutorial-learn-plot-python.html
+3. https://gist.github.com/gizmaa/7214002
