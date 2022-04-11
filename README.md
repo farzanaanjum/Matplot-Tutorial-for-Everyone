@@ -18,9 +18,12 @@ Matplotlib is a cross-platform, data visualization and graphical plotting librar
   1. Bar Graph
   2. Pie Chart
   3. Box Plot
-  4. Histogram
-  5. Line Chart and Subplots
-  6. Scatter Plot
+  4. Count Plot
+  5. Histogram
+  6. Line Chart and Subplots
+  7. Scatter Plot
+  8. Area Plot
+ 
   
 ## Reference 
 
